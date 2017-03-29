@@ -1,0 +1,25 @@
+{
+  "name": "saltjs",
+  "version": "1.0.0",
+  "description": "source encryption algorithm to protect the javascript source code",
+  "main": "salt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "javascript",
+    "protect",
+    "source",
+    "code",
+    "encrypt",
+    "hide"
+  ],
+  "author": "Nirus AKA Nirajan",
+  "license": "SEE LICENSE IN license.txt",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "es6-promise": "^4.0.5",
+    "uglify-js": "^2.7.3"
+  }
+}
